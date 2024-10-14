@@ -8,7 +8,7 @@ function Navbar() {
 
   return (
     <nav className=" py-1 bg-[]  ">
-      <div className="container-wrapper flex items-center justify-between relative">
+      <div className="container-wrapper flex items-center justify-between flex-col sm:flex-row relative">
         <div className=" flex items-center gap-2">
           <img
             src="/images/logo.png"
