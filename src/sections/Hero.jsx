@@ -33,7 +33,7 @@ function Hero() {
 
               <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
                 <a
-                  href="https://t.me/SpongeWifHatcoin" 
+                  href="https://t.me/Sponge_wifhat" 
                   target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#e8e6c9] shadow-lg shadow-black/40 text-[#000000]  font-bold border-[#000000] border-2"
                 >
@@ -41,7 +41,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="https://www.dextools.io/app/en/solana/pair-explorer/4uMXStYQyKnnkyVJpHPRWDjtQYYYseAEfpf1jiTLcFfj?t=1717422693111"
+                  href="#"
                   target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#e8e6c9] shadow-lg shadow-black/40 text-[#000000]  font-bold  border-[#000000] border-2"
                 >
